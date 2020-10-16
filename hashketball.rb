@@ -25,8 +25,8 @@ def game_hash
                   :away => {
                 :team_name => "Charlotte Hornets",
                 :colors => ["Turquoise", "Purple"],
-                :players => [{:player_name => "Jeff Adrien", :number => 4 , :shoe => 188., :points => 22,
-                              :rebounds => 12, :assists => 12, :steals => 3, :blocks => 1, :slam_dunks => 1},
+                :players => [{:player_name => "Jeff Adrien", :number => 4 , :shoe => 18, :points => 10,
+                              :rebounds => 1, :assists => 1, :steals => 2, :blocks => 7, :slam_dunks => 1},
                               
                              {:player_name => "Bismack Biyombo", :number => 30, :shoe => 14, :points => 12,
                               :rebounds => 12, :assists => 12, :steals => 12, :blocks => 12, :slam_dunks => 7},
