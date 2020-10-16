@@ -28,7 +28,7 @@ def game_hash
                 :players => [{:player_name => "Jeff Adrien", :number => 0, :shoe => 16, :points => 22,
                               :rebounds => 12, :assists => 12, :steals => 3, :blocks => 1, :slam_dunks => 1},
                               
-                             {:player_name => "Reggie Evans", :number => 30, :shoe => 14, :points => 12,
+                             {:player_name => "Bismack Biyombo", :number => 30, :shoe => 14, :points => 12,
                               :rebounds => 12, :assists => 12, :steals => 12, :blocks => 12, :slam_dunks => 7},
                               
                              {:player_name => "Brook Lopez", :number => 11, :shoe => 17, :points => 17,
